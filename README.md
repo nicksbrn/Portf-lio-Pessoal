@@ -16,8 +16,8 @@ Curso de Inglês (Link Idiomas)
 
 
 HABILIDADES
-#Organização
-#Resolução de problemas
-#Responsabilidade
-#Trabalho em equipe
-#Boa comunicação
+Organização
+Resolução de problemas
+Responsabilidade
+Trabalho em equipe
+Boa comunicação
